@@ -20,7 +20,7 @@
 <br/><br/>                                                     
 
 
-| Day |                                                             Problem                                                             |                                        Solution                                         | state  |
+| Challange |                                                             Problem                                                             |                                        Solution                                         | state  |
 |:---:|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:------:|
 | 1.  |                                 [Two Sum](https://leetcode.com/problems/two-sum/)                                 | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Two%20Sum%20(Challange%201).dart)  |  Easy  |
 | 2.  |                            [Power Of Two](https://leetcode.com/problems/power-of-two/)                            | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Power%20Of%20Two%20(Challange%202).dart)  |  Easy  |
