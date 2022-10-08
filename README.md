@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-7-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-11-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -29,3 +29,7 @@
 | 5.  |                            [Reverse String](https://leetcode.com/problems/reverse-string/)              | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Reverse%20String%20(Chalange%205).dart)  |  Easy  |       
 | 6.  |                              [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Contains%20Duplicate%20(Challange%206).dart)  |  Easy  |
 | 7.  |                              [Single Number](https://leetcode.com/problems/single-number/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Single%20Number%20(Challange%207).dart)  |  Easy  |
+| 8.  |                              [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Valid%20Palindrome%20(Challange%208).dart)  |  Easy  |
+| 9.  |                              [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Valid%20Palindrome%20ii%20(Challange%209).dart)  |  Easy  |
+| 10.  |                              [Majority Element](https://leetcode.com/problems/majority-element/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Majority%20Element%20(Challange%2010).dart)  |  Easy  |
+| 11.  |                              [Missing Number](https://leetcode.com/problems/missing-number/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Missing%20Number%20(Challange%2011).dart)  |  Easy  |
