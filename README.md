@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-11-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-16-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -33,3 +33,8 @@
 | 9.  |                              [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Valid%20Palindrome%20ii%20(Challange%209).dart)  |  Easy  |
 | 10.  |                              [Majority Element](https://leetcode.com/problems/majority-element/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Majority%20Element%20(Challange%2010).dart)  |  Easy  |
 | 11.  |                              [Missing Number](https://leetcode.com/problems/missing-number/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Missing%20Number%20(Challange%2011).dart)  |  Easy  |
+| 12.  |                              [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Move%20Zeros%20(Challange%2012).dart)  |  Easy  |
+| 13.  |                              [Remove Element](https://leetcode.com/problems/remove-element/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Remove%20Element%20(Challange%2013).dart)  |  Easy  |
+| 14.  |                              [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Remove%20Duplicates%20From%20Sorted%20Array%20(Challange14).dart)  |  Easy  |
+| 15.  |                              [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Length%20Of%20Last%20Word%20(Challange%2015).dart)  |  Easy  |
+| 16.  |                              [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/First%20Unique%20Character%20in%20a%20String%20(Challange%2016).dart)  |  Easy  |
