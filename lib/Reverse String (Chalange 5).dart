@@ -1,4 +1,4 @@
-class Chalange5
+class Challange5
 {
     void reverseString(List<String> s)
     {
