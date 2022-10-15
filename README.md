@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-16-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-20-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -38,3 +38,7 @@
 | 14.  |                              [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Remove%20Duplicates%20From%20Sorted%20Array%20(Challange14).dart)  |  Easy  |
 | 15.  |                              [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Length%20Of%20Last%20Word%20(Challange%2015).dart)  |  Easy  |
 | 16.  |                              [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/First%20Unique%20Character%20in%20a%20String%20(Challange%2016).dart)  |  Easy  |
+| 17.  |                              [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Fizz%20Buzz%20(Challange17).dart)  |  Easy  |
+| 18.  |                              [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Longest%20Common%20Prefix%20(Challange18).dart)  |  Easy  |
+| 19.  |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Valid%20Parentheses%20(Challange19).dart)  |  Easy  |
+| 20.  |                              [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                | [Solution](https://github.com/ZEM-Kamel/LeetCode-Challenges-Problem-Solving/blob/main/lib/Valid%20Anagram%20(Challange20).dart)  |  Easy  |
